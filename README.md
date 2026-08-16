@@ -331,7 +331,7 @@ Também gosto muito de <strong>jogos, quadrinhos, séries e filmes</strong>, esp
       <sub><b>Trello</b></sub>
     </td>
    <td align="center" width="110" height="110">
-      <img src="./assets/icons/lua-Logo.svg" width="44" height="44" alt="Lua"/>
+      <img src="./assets/icons/Lua-Logo.svg" width="44" height="44" alt="Lua"/>
       <br/>
       <sub><b>Lua</b></sub>
     </td>
