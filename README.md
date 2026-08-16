@@ -13,7 +13,7 @@
 
 <!-- ══════════════════ TYPING ══════════════════ --> 
 <div align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=f4d64e&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+4%C2%BA+Periodo;Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+Programação;Cada+dia+me+superando" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=f4d64e&center=true&vCenter=true&width=600&lines=Estudante+de+ADS+%7C+4%C2%BA+Periodo;Futuro+Desenvolvedor+Full+Stack;Apaixonado+por+Programa%C3%A7%C3%A3o;Cada+dia+me+superando" alt="Typing SVG"/>
 </div>
 
 ---
