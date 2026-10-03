@@ -204,13 +204,13 @@ Também gosto muito de <strong>jogos, quadrinhos, séries e filmes</strong>, esp
       <br/>
       <sub><b>Firebase</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110" height="110">
       <img src="./assets/icons/angular.svg" width="44" height="44" alt="Angular"/>
       <br/>
       <sub><b>Angular</b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110" height="110">
       <img src="./assets/icons/xampp.svg" width="44" height="44" alt="XAMPP"/>
       <br/>
