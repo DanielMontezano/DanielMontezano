@@ -175,11 +175,6 @@ Também gosto muito de <strong>jogos, quadrinhos, séries e filmes</strong>, esp
       <sub><b>Next.js</b></sub>
     </td>
     <td align="center" width="110" height="110">
-      <img src="./assets/icons/angular.svg" width="44" height="44" alt="Angular"/>
-      <br/>
-      <sub><b>Angular</b></sub>
-    </td>
-    <td align="center" width="110" height="110">
       <img src="./assets/icons/vue.svg" width="44" height="44" alt="Vue"/>
       <br/>
       <sub><b>Vue</b></sub>
