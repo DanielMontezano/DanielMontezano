@@ -168,26 +168,12 @@ Também gosto muito de <strong>jogos, quadrinhos, séries e filmes</strong>, esp
       <sub><b>React</b></sub>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="110" height="110">
       <img src="./assets/icons/next.js.svg" width="44" height="44" alt="Next.js"/>
       <br/>
       <sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="110" height="110">
-      <img src="./assets/icons/vue.svg" width="44" height="44" alt="Vue"/>
-      <br/>
-      <sub><b>Vue</b></sub>
-    </td>
-    <td align="center" width="110" height="110">
-      <img src="./assets/icons/sass.svg" width="44" height="44" alt="Sass"/>
-      <br/>
-      <sub><b>Sass</b></sub>
-    </td>
-    <td align="center" width="110" height="110">
-      <img src="./assets/icons/tailwindcss.svg" width="44" height="44" alt="Tailwind"/>
-      <br/>
-      <sub><b>Tailwind</b></sub>
     </td>
     <td align="center" width="110" height="110">
       <img src="./assets/icons/mysql.svg" width="44" height="44" alt="MySQL"/>
@@ -205,31 +191,14 @@ Também gosto muito de <strong>jogos, quadrinhos, séries e filmes</strong>, esp
       <sub><b>Firebase</b></sub>
     </td>
     <td align="center" width="110" height="110">
-      <img src="./assets/icons/angular.svg" width="44" height="44" alt="Angular"/>
-      <br/>
-      <sub><b>Angular</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110" height="110">
       <img src="./assets/icons/xampp.svg" width="44" height="44" alt="XAMPP"/>
       <br/>
       <sub><b>XAMPP</b></sub>
     </td>
     <td align="center" width="110" height="110">
-      <img src="./assets/icons/bootstrap.svg" width="44" height="44" alt="Bootstrap"/>
-      <br/>
-      <sub><b>Bootstrap</b></sub>
-    </td>
-    <td align="center" width="110" height="110">
       <img src="./assets/icons/ionic.svg" width="44" height="44" alt="Ionic"/>
       <br/>
       <sub><b>Ionic</b></sub>
-    </td>
-    <td align="center" width="110" height="110">
-      <img src="./assets/icons/ruby.svg" width="44" height="44" alt="Ruby"/>
-      <br/>
-      <sub><b>Ruby</b></sub>
     </td>
     <td align="center" width="110" height="110">
       <img src="./assets/icons/git.svg" width="44" height="44" alt="Git"/>
@@ -241,6 +210,9 @@ Também gosto muito de <strong>jogos, quadrinhos, séries e filmes</strong>, esp
       <br/>
       <sub><b>Linux</b></sub>
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="110" height="110">
       <img src="./assets/icons/markdown.svg" width="44" height="44" alt="Markdown"/>
       <br/>
@@ -251,8 +223,6 @@ Também gosto muito de <strong>jogos, quadrinhos, séries e filmes</strong>, esp
       <br/>
       <sub><b>Vite</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110" height="110">
       <img src="./assets/icons/github-copilot.svg" width="44" height="44" alt="GitHub Copilot"/>
       <br/>
@@ -283,38 +253,9 @@ Também gosto muito de <strong>jogos, quadrinhos, séries e filmes</strong>, esp
       <br/>
       <sub><b>Figma</b></sub>
     </td>
-    <td align="center" width="110" height="110">
-      <img src="./assets/icons/penpot.svg" width="44" height="44" alt="Penpot"/>
-      <br/>
-      <sub><b>Penpot</b></sub>
-    </td>
-    <td align="center" width="110" height="110">
-      <img src="./assets/icons/affinity.svg" width="44" height="44" alt="Affinity"/>
-      <br/>
-      <sub><b>Affinity</b></sub>
-    </td>
   </tr>
+
   <tr>
-    <td align="center" width="110" height="110">
-      <img src="./assets/icons/behance-black.svg" width="44" height="44" alt="Behance"/>
-      <br/>
-      <sub><b>Behance</b></sub>
-    </td>
-    <td align="center" width="110" height="110">
-      <img src="./assets/icons/ibis-paint-x.svg" width="44" height="44" alt="Ibis Paint X"/>
-      <br/>
-      <sub><b>Ibis Paint X</b></sub>
-    </td>
-    <td align="center" width="110" height="110">
-      <img src="./assets/icons/clip-studio-paint.svg" width="44" height="44" alt="Clip Studio"/>
-      <br/>
-      <sub><b>Clip Studio</b></sub>
-    </td>
-    <td align="center" width="110" height="110">
-      <img src="./assets/icons/krita.svg" width="44" height="44" alt="Krita"/>
-      <br/>
-      <sub><b>Krita</b></sub>
-    </td>
     <td align="center" width="110" height="110">
       <img src="./assets/icons/aseprite.svg" width="44" height="44" alt="Aseprite"/>
       <br/>
@@ -330,7 +271,7 @@ Também gosto muito de <strong>jogos, quadrinhos, séries e filmes</strong>, esp
       <br/>
       <sub><b>Trello</b></sub>
     </td>
-   <td align="center" width="110" height="110">
+    <td align="center" width="110" height="110">
       <img src="./assets/icons/Lua-Logo.svg" width="44" height="44" alt="Lua"/>
       <br/>
       <sub><b>Lua</b></sub>
