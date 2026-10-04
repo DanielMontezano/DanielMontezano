@@ -56,8 +56,7 @@
 <br/>
 
 <!-- VISITOR COUNTER -->
-src="https://komarev.com/ghpvc/?username=DanielMontezano&label=Visitantes&color=F4D64E&style=flat-square" 
-  alt="Contador de visitantes"
+<img src="https://komarev.com/ghpvc/?username=DanielMontezano&color=f4d64e&style=flat-square&label=Visitantes" alt="Visitantes"/>
 
 <br/>
 
