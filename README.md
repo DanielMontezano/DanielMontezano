@@ -181,9 +181,9 @@ Também gosto muito de <strong>jogos, quadrinhos, séries e filmes</strong>, esp
       <sub><b>MySQL</b></sub>
     </td>
     <td align="center" width="110" height="110">
-      <img src="./assets/icons/postgresql.svg" width="44" height="44" alt="PostgreSQL"/>
+      <img src="./assets/icons/csharp.svg" width="44" height="44" alt="C#"/>
       <br/>
-      <sub><b>PostgreSQL</b></sub>
+      <sub><b>C#</b></sub>
     </td>
     <td align="center" width="110" height="110">
       <img src="./assets/icons/firebase.svg" width="44" height="44" alt="Firebase"/>
