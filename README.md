@@ -219,9 +219,9 @@ Também gosto muito de <strong>jogos, quadrinhos, séries e filmes</strong>, esp
       <sub><b>Markdown</b></sub>
     </td>
     <td align="center" width="110" height="110">
-      <img src="./assets/icons/vite.js.svg" width="44" height="44" alt="Vite"/>
+      <img src="./assets/icons/capcut.svg" width="44" height="44" alt="CapCut"/>
       <br/>
-      <sub><b>Vite</b></sub>
+      <sub><b>CapCut</b></sub>
     </td>
     <td align="center" width="110" height="110">
       <img src="./assets/icons/github-copilot.svg" width="44" height="44" alt="GitHub Copilot"/>
